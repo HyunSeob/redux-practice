@@ -1,0 +1,27 @@
+{
+  "name": "redux-practice",
+  "version": "0.0.1",
+  "description": "A personal repo for learning redux.",
+  "main": "index.js",
+  "dependencies": {
+    "deep-freeze": "0.0.1",
+    "expect.js": "^0.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HyunSeob/redux-practice.git"
+  },
+  "keywords": [
+    "redux"
+  ],
+  "author": "HyunSeob <sytte1017@gmail.com> (http://hyunseob.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HyunSeob/redux-practice/issues"
+  },
+  "homepage": "https://github.com/HyunSeob/redux-practice#readme"
+}
